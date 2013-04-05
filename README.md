@@ -6,7 +6,7 @@
 ## Installation
 
 ```
-$ component install wilsonpage/sass-import-once
+$ component install madebybottle/sass-import-once
 ```
 
   OR

@@ -1,10 +1,11 @@
 {
 	"name": "sass-import-once",
+  "repo": "madebybottle/sass-import-once",
 	"description": "Declares a module that should only be imported once",
 	"version": "0.1.0",
 	"keywords": "sass",
 	"files": [
-		"index.scss"
+		"sass-import-once.scss"
 	],
 	"licence": "MIT"
 }
